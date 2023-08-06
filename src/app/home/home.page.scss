@@ -1,0 +1,63 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 20%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+.gitting_started{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.expenses-buttons{
+  display: flex;
+  gap: 5px;
+}
+
+
+/* ecommerce */
+
+.promoted{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.promo-main-text{
+  font-size: 20px;
+}
+
+.container{
+  padding: 10px;
+  position: relative;
+}
+
+ion-card {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}

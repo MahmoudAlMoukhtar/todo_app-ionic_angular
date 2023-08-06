@@ -1,0 +1,7 @@
+{
+  "name": "lawChoice2-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
